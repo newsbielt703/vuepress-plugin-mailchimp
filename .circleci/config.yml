@@ -7,7 +7,7 @@ version: 2.1
 orbs:
   # import Cypress orb by specifying an exact version x.y.z
   # or the latest version 1.x.x using "@1" syntax
-  cypress: cypress-io/cypress@1
+  cypress: cypress-io/cypress@1.28.0
 
 defaults: &defaults
   working_directory: ~/project
